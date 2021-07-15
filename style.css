@@ -10,3 +10,19 @@ margin-bottom:20px;
 input{
 margin:10px;
 }
+#WithC{
+border:1px solid grey;
+padding:10px;
+background-color:black;
+color:grey;
+width:50%;
+border-radius:10px;
+}
+#WithoutC{ 
+border:1px solid black;
+padding:10px;
+background-color:grey;
+color:black;
+width:50%;
+border-radius:10px;
+}
